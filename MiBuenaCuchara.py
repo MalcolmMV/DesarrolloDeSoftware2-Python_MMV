@@ -1,2 +1,0 @@
-#Fabian
-print("Hello world!")
